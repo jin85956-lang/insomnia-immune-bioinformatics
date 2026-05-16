@@ -5,7 +5,7 @@
 
 This repository contains all analytical code used to produce the results of:
 
-> **\[Manuscript title here\]**
+> **\[Oxidative Stress Shows the Largest Immune-Pathway Effect Size in Chronic Insomnia: Integrative Identification of SPTLC1, PTGES3, and HLA-G as Candidate Hub Genes\]**
 > Chen X., \[other authors\]. *PeerJ* (under review / accepted), 2026.
 > Manuscript DOI: TBA upon acceptance.
 
