@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite both the manuscript and the archived code snapshot below."
+title: "Insomnia Immune–Stress Bioinformatics — Supplementary Code"
+abstract: >
+  Analytical R code accompanying the manuscript on chronic insomnia transcriptomics
+  in PBMCs (GSE208668, n = 42). The pipeline covers expression preprocessing,
+  GSVA of stress and immune gene sets, WGCNA module discovery, multi-algorithm
+  feature selection (LASSO, Random Forest, Boruta), leave-one-out cross-validation,
+  cross-cohort directional consistency in three independent sleep datasets,
+  cis-eQTL lookup in eQTLGen, CIBERSORTx immune deconvolution, SMR Mendelian
+  randomization against the Jansen 2019 insomnia GWAS, and DGIdb drug–target
+  retrieval.
+type: software
+version: "1.0.0"
+date-released: 2026-05-17
+authors:
+  - family-names: "Xin"
+    given-names: "Zhipeng"
+    orcid: "https://orcid.org/0009-0007-4575-1368"
+    affiliation: "School of Basic Medical Sciences, Hubei University of Chinese Medicine"
+    email: "jin85956@stmail.hbucm.edu.cn"
+license: MIT
+repository-code: "https://github.com/jin85956-lang/insomnia-immune-bioinformatics"
+keywords:
+  - insomnia
+  - bioinformatics
+  - transcriptomics
+  - WGCNA
+  - GSVA
+  - CIBERSORTx
+  - SMR
+  - Mendelian randomization
+  - machine learning
+  - reproducible research
+references:
+  - type: article
+    title: "Oxidative Stress Shows the Largest Immune-Pathway Effect Size in Chronic Insomnia: Integrative Identification of SPTLC1, PTGES3, and HLA-G as Candidate Hub Genes"
+    authors:
+      - family-names: "Xin"
+        given-names: "Zhipeng"
+        orcid: "https://orcid.org/0009-0007-4575-1368"
+    year: 2026
+    journal: "PeerJ"
+    # doi: "10.7717/peerj.XXXXX"   # <-- fill in after acceptance
+  - type: data
+    title: "Gene expression profiles of chronic insomnia patients (GSE208668)"
+    repository: "NCBI Gene Expression Omnibus"
+    url: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE208668"
