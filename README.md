@@ -130,7 +130,7 @@ Exact versions used in the published analysis are recorded in `sessionInfo.txt`.
 If you use this code, please cite both the manuscript and the archived code snapshot:
 
 ```
-Xin, Z. (2026). Insomnia Immune–Stress Bioinformatics — Supplementary Code (v1.0.0)
+Xin, Z. (2026). Insomnia Immune–Stress Bioinformatics — Supplementary Code (v1.0.2)
 [Software]. Zenodo. https://doi.org/10.5281/zenodo.20251895
 ```
 
